@@ -1,0 +1,26 @@
+/* * {
+    border: 1px solid black;
+} */
+
+.form {
+    flex-direction: column;
+}
+
+#submitRequest {
+    margin: 1rem 0 2rem 2rem;
+    padding: 0.5rem;
+    background-image: linear-gradient(white, rgb(28, 120, 156), white);
+    color: rgb(49, 9, 82);
+    font-size: 1rem;
+}
+
+.field {
+    padding: 5px;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.label {
+    font-size: 1.3em;
+}
